@@ -10,4 +10,4 @@
 
 ## Exercise 2
 1. Update your local main branch
-2. Merge the latest code into the branch you are wokring on
+2. Merge the latest code into the branch you are working on
