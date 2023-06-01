@@ -5,7 +5,7 @@
 2. Clone my repo
 3. Make your own branch and make a push
 4. Make a pull request to main branch in team repo
-5. 
+
 <hr>
 
 ## Exercise 2
